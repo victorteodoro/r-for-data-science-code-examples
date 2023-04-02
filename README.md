@@ -1,2 +1,2 @@
-# The Art of R Programming code
-Code examples and exercises from [The Art of R Programming book](https://nostarch.com/artofr.htm)
+# R for Data Science code
+Code examples and exercises from the [R for Data Science](https://r4ds.hadley.nz/) book.
