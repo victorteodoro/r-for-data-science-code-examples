@@ -1,0 +1,2 @@
+# An Introduction to R
+This collection of notebooks are a companion to the [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) manual available at the official R website.
