@@ -1,0 +1,12 @@
+name: r-for-ds
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-ggthemes
+  - r-palmerpenguins
+  - r-languageserver
+  - ipykernel
+  - r-irkernel
