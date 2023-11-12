@@ -7,6 +7,7 @@ dependencies:
   - r-tidyverse
   - r-ggthemes
   - r-palmerpenguins
+  - r-nycflights13
   - r-languageserver
   - ipykernel
   - r-irkernel
